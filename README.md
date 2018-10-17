@@ -1,2 +1,2 @@
-# adrenalinebot.com
-AdrenalineBot.com scripts development community
+## AdrenalineBot.com scripts development community
+Repository moved to: https://gitlab.com/adrenalinebot.com
